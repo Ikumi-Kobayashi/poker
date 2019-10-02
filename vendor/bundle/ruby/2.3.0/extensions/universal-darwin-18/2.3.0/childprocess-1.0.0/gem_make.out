@@ -1,0 +1,5 @@
+current directory: /Users/i.kobayashi/RubymineProjects/poker/vendor/bundle/ruby/2.3.0/gems/childprocess-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby mkrf_conf.rb
+
+current directory: /Users/i.kobayashi/RubymineProjects/poker/vendor/bundle/ruby/2.3.0/gems/childprocess-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -rubygems /Users/i.kobayashi/RubymineProjects/poker/vendor/bundle/ruby/2.3.0/gems/rake-13.0.0/exe/rake RUBYARCHDIR=/Users/i.kobayashi/RubymineProjects/poker/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/childprocess-1.0.0 RUBYLIBDIR=/Users/i.kobayashi/RubymineProjects/poker/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/childprocess-1.0.0
